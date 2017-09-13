@@ -9,3 +9,8 @@ This is h1
 
 this is h2
 -----------------
+
+~strikeout text~
+
+__bold text__
+
