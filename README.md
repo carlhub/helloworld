@@ -14,3 +14,14 @@ this is h2
 
 __bold text__
 
+*italic chars*
+_italic chars_
+
+*unordered list
+*not ordered
+  *not ordered
+  
+1. Ordered list  
+2. Order 2
+  3. Order Three
+  
